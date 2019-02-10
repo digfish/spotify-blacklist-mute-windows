@@ -1,2 +1,4 @@
 .idea/
 .when-changed-git/
+*.bat
+when-changed
