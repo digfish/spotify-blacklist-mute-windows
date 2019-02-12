@@ -14,7 +14,7 @@ The startup script (`spotifymute`) launches GNU Screen, so if everything works a
 
 The Python utility `when-changed` is not available on this fork since the module [pyinotify](http://www.nirsoft.net/utils/nircmd.html) is not available on Windows, so I deleted the submodule.
 
-There is a reimplementation of this application entirely in Python [here](https://github.com/digfish/spotify-blacklist-mute-windows), with no dependencies on Cygwin.
+There is a reimplementation of this application entirely in Python [here](https://github.com/digfish/pyspotifymuter), with no dependencies on Cygwin.
 
 Todo
 ----
